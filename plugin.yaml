@@ -1,0 +1,5 @@
+name: "init-minikube"
+version: "1.0.0"
+usage: "minikube driver for `draft init`."
+description: "Draft plugin that provides the minikube driver for `draft init`."
+command: "$DRAFT_PLUGIN_DIR/minikube.sh"
