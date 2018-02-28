@@ -1,3 +1,5 @@
+# TODO: replace this entire script with minikube/helm Go bindings so the user doesn't have to install minikube and helm.
+
 #!/usr/bin/env bash
 
 set -eof pipefail
